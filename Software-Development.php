@@ -1,7 +1,7 @@
 <?php
     session_start();
     if (isset($_SESSION['username']))
-        echo '<script>alert("login successfully")</script>';
+        echo '';
     else
         header('location:login.php');
 ?>
