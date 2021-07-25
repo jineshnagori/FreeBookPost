@@ -12,7 +12,7 @@
         echo "database is not connected";
     }
     else {	
-    header('location: index.php');
-    exit();
+        header('location: login.php');
+        exit();
     } 
 ?>
