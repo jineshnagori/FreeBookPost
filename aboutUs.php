@@ -237,7 +237,7 @@
                     <div class="row">
                         <div class="column">
                           <div class="card">
-                            <img src="/img/hero/team2.png" alt="Jane" style="width:100%">
+                            <img src="img/hero/team2.png" alt="Jane" style="width:100%">
                             <div class="container-about">
                               <h2>Jinesh Nagori</h2>
                               <p class="title">CEO</p>
@@ -249,7 +249,7 @@
                       
                         <div class="column">
                           <div class="card">
-                            <img src="/img/hero/team2.png" alt="Mike" style="width:100%">
+                            <img src="img/hero/team2.png" alt="Mike" style="width:100%">
                             <div class="container-about">
                               <h2>Harshit Patidar</h2>
                               <p class="title">Co-Founder & Content Manager</p>
@@ -261,7 +261,7 @@
                       
                         <div class="column">
                           <div class="card">
-                            <img src="/img/hero/team2.png" alt="John" style="width:100%">
+                            <img src="img/hero/team2.png" alt="John" style="width:100%">
                             <div class="container-about">
                               <h2>Hemang Verma</h2>
                               <p class="title">Supervisor</p>
