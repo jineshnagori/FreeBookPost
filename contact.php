@@ -174,6 +174,7 @@
                             </li>
                             <!-- <li><a href="./blog.php">Blog</a></li> -->
                             <li class="active"><a href="./contact.php">Contact</a></li>
+                            <li><a href="./aboutUs.php">About Us</a></li>
                         </ul>
                     </nav>
                 </div>
